@@ -37,7 +37,7 @@ cd central-package-management-demo
 dotnet restore
 dotnet build
 dotnet test
-``
+```
 
 ## 📂 Klasör Yapısı
 
