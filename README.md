@@ -1,4 +1,3 @@
-﻿echo "# Central Package Management Demo (.NET)
 
 Bu repo, **.NET projelerinde Central Package Management (CPM)** kullanımını göstermek için hazırlanmıştır.  
 Küçük bir class library (Demo.Core) ve test projesi (Demo.Tests) içerir.  
